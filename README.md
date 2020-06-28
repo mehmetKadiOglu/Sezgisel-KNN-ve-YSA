@@ -1,0 +1,1 @@
+# Sezgisel-KNN-ve-YSA
